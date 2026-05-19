@@ -8,3 +8,5 @@ All notable changes to this project are documented here.
 
 - **2026-05-16**: fix: handle null values and prevent potential boundary errors
 
+- **2026-05-19**: docs: clarify setup steps and environment configuration in README
+
