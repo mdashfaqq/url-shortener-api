@@ -10,3 +10,5 @@ All notable changes to this project are documented here.
 
 - **2026-05-19**: docs: clarify setup steps and environment configuration in README
 
+- **2026-05-25**: feat: initial project setup and core architecture scaffolding
+
