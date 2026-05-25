@@ -12,3 +12,5 @@ All notable changes to this project are documented here.
 
 - **2026-05-25**: feat: initial project setup and core architecture scaffolding
 
+- **2026-05-25**: docs: add architectural overview notes and component flow details
+
