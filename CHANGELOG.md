@@ -14,3 +14,5 @@ All notable changes to this project are documented here.
 
 - **2026-05-25**: docs: add architectural overview notes and component flow details
 
+- **2026-05-29**: refactor: modularize helper functions and improve code readability
+
