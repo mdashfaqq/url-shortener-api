@@ -16,3 +16,5 @@ All notable changes to this project are documented here.
 
 - **2026-05-29**: refactor: modularize helper functions and improve code readability
 
+- **2026-05-29**: docs: document API schema, sample payloads, and parameters
+
