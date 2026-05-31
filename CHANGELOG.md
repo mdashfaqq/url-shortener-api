@@ -18,3 +18,5 @@ All notable changes to this project are documented here.
 
 - **2026-05-29**: docs: document API schema, sample payloads, and parameters
 
+- **2026-05-31**: perf: improve response latency and optimize inner execution loops
+
