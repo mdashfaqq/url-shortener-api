@@ -22,3 +22,5 @@ All notable changes to this project are documented here.
 
 - **2026-06-02**: chore: update dependencies and ignore unnecessary cache artifacts
 
+- **2026-06-02**: test: expand test coverage for error responses and status codes
+
