@@ -26,3 +26,5 @@ All notable changes to this project are documented here.
 
 - **2026-06-05**: ci: configure workflow check steps and code validation triggers
 
+- **2026-06-05**: style: format code according to style conventions and lint rules
+
