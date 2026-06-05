@@ -24,3 +24,5 @@ All notable changes to this project are documented here.
 
 - **2026-06-02**: test: expand test coverage for error responses and status codes
 
+- **2026-06-05**: ci: configure workflow check steps and code validation triggers
+
